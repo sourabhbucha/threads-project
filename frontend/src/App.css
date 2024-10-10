@@ -1,0 +1,15 @@
+.no-style {
+  margin: 0;               /* Reset margin */
+  padding: 0;              /* Reset padding */
+  border: none;            /* Reset border */
+  background: none;        /* Reset background */
+  color: inherit;          /* Use inherited text color */
+  font-size: inherit;      /* Use inherited font size */
+  font-family: inherit;    /* Use inherited font family */
+  line-height: inherit;    /* Use inherited line height */
+  
+  list-style-type: none;   /* Remove bullet points or numbers from lists */
+  list-style-position: inherit; /* Use inherited list style position */
+  display: block;          /* Ensure it behaves as a block element if necessary */
+  /* Add any other properties you want to reset */
+}
